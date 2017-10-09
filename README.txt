@@ -1,0 +1,2 @@
+Only the code in project.c was written by me. The other two files were provided. The goals of this project were to learn how control signals work
+within the MIPS pipeline, how the ALU operates and how its results are interpreted, and how or when registers are written to.
